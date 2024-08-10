@@ -1,0 +1,31 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('/Project2/Tours&Travels/Photos/a-4.jpg');
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+
+.heading
+{
+    color: white;
+}
+
+input[type="submit"]
+{
+    background-color:#6a0b33;
+    color: white;
+    border: none;
+    padding: 5px 0px;
+}
+
+a
+{
+    text-decoration: none !important;
+    color: #6A0B33 !important;
+}
+a:hover
+{
+    color: white !important;
+}
